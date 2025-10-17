@@ -17,14 +17,14 @@
 
 ## Использование
 
-
+```python
 results, df = update_and_recalculate_metrics(
     groups_add_path='Проект_2_group_add.csv',
     groups_path='Проект_2_groups.csv',
     active_studs_path='Проект_2_active_studs.csv', 
     checks_path='Проект_2_checks.csv'
 )
-
+```
 
 ## Входные данные
 
